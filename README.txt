@@ -1,1 +1,1 @@
-This portfolio highlights many of hte data science and analytics projects that I have completed.
+This portfolio highlights many of the data science and analytics projects that I have completed.
